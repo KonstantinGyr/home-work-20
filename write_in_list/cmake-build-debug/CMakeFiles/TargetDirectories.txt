@@ -1,0 +1,3 @@
+C:/Users/Kot/CLionProjects/HW20/write_in_list/cmake-build-debug/CMakeFiles/write_in_list.dir
+C:/Users/Kot/CLionProjects/HW20/write_in_list/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kot/CLionProjects/HW20/write_in_list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
