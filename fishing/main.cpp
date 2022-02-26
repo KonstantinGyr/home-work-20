@@ -38,6 +38,8 @@ int main() {
          }
         }
     }while(fish!="stop");
+    river.close();
+    basket.close();
     std::cout<<"Ñaught fish : "<<n;
     return 0;
 }
